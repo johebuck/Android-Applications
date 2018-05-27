@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "611560479426",
+    "firebase_url": "https://hangman-2e2e2.firebaseio.com",
+    "project_id": "hangman-2e2e2",
+    "storage_bucket": "hangman-2e2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611560479426:android:1d13a05986244107",
+        "android_client_info": {
+          "package_name": "com.example.adamchisolm.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611560479426-fk04ieil0qjhue2pkk7e84a8skmc5vr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adamchisolm.firebasechat",
+            "certificate_hash": "c6862374ddb68c9a7756fa1d033d0c9bc83e74dd"
+          }
+        },
+        {
+          "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfIZhcWJj8IptNs9ev8k3gE6XLaMh7kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611560479426:android:77d53ac4742c7543",
+        "android_client_info": {
+          "package_name": "com.example.adamchisolm.firebasechat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611560479426-8kompgabfhqa8lj6imm89re85v8snk6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adamchisolm.firebasechat2",
+            "certificate_hash": "c6862374ddb68c9a7756fa1d033d0c9bc83e74dd"
+          }
+        },
+        {
+          "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfIZhcWJj8IptNs9ev8k3gE6XLaMh7kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611560479426:android:934b0c94a65ce09f",
+        "android_client_info": {
+          "package_name": "com.example.adamchisolm.project3chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611560479426-mf227amq3dnc094hdd5tmtha4noiofdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adamchisolm.project3chat",
+            "certificate_hash": "c6862374ddb68c9a7756fa1d033d0c9bc83e74dd"
+          }
+        },
+        {
+          "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfIZhcWJj8IptNs9ev8k3gE6XLaMh7kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611560479426:android:e8e1c708023267eb",
+        "android_client_info": {
+          "package_name": "com.example.runes.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611560479426-h1rj0j4fnfh3udf3efkc3rbf255k3bar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runes.hangman",
+            "certificate_hash": "555acecb57a68dd296badeac3abadd3f90cf6dd4"
+          }
+        },
+        {
+          "client_id": "611560479426-7lgmj0gdjvd1odgjnvl9bmp94r21ggb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runes.hangman",
+            "certificate_hash": "89d7854402cc1ff6d8c80d32e54f514766938218"
+          }
+        },
+        {
+          "client_id": "611560479426-kqdeu8qg57eg1e32qppnk94vbkjldjim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runes.hangman",
+            "certificate_hash": "c6862374ddb68c9a7756fa1d033d0c9bc83e74dd"
+          }
+        },
+        {
+          "client_id": "611560479426-8mftm2jeq7lrdm83c0rplauqm66p68s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runes.hangman",
+            "certificate_hash": "2a516e2d5e0b12b19eb5dd5efa3fdba3efec2ee5"
+          }
+        },
+        {
+          "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfIZhcWJj8IptNs9ev8k3gE6XLaMh7kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611560479426-hv32p3is4to28tg7a0idt1do2b6g2dug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
