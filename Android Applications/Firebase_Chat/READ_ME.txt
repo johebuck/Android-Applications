@@ -1,0 +1,1 @@
+A simple chat application using Firebase real time database to display messages
